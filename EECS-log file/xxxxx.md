@@ -1,1 +1,2 @@
-  this is an empty md filed.
+  This is an empty log file.
+

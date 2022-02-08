@@ -1,7 +1,7 @@
 # python
 <h1> this is an exmple of python. </h1>
 
- practice of python
+ Here is a practice of python.
 
 def my_function(fname):
   print(fname + " Refsnes")

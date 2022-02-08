@@ -6,4 +6,4 @@
 
  <h2>You can also call me Bella Pan.</h2>
 
- My programming is not that good, but i will try my best to practice and do well in EECS1720.
+ 

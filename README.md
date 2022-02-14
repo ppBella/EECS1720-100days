@@ -1,5 +1,6 @@
 # EECS1720-100days
-100 days of coding
+100 days of coding in 1720
+
  <h3>Hello</h3>
  <h1> This is Siyu Pan.</h1>
 

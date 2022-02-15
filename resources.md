@@ -14,15 +14,14 @@ https://books.google.ca/books/about/Public_Art_public_Space.html?id=1tbHsgEACAAJ
  3. Here is an article about computers are changing the way art is made :
 https://www.sciencenewsforstudents.org/article/computers-are-changing-how-art-is-made
 
- 4.
- 2.
- 3.
- 4.
- 5.
- 6.
- 7.
- 8.
- 9.
- 10.
+ 4. Daniel Roth Department of Computer Science, et al. “Technologies for Social Augmentations in User-Embodied Virtual Reality: 25th ACM Symposium on Virtual Reality Software and Technology.” ACM Conferences, 1 Nov. 2019, https://dl.acm.org/doi/10.1145/3359996.3364269. 
+
+ 5. “Public Art Installations.” Entuitive, https://www.entuitive.com/services-list/public-art-installations/. 
+ 
+ 6. 
+ 7. 
+ 8. 
+ 9. 
+ 10. 
 
 

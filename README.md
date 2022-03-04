@@ -4,7 +4,7 @@
  <h3>Hello</h3>
  <h1> This is Siyu Pan.</h1>
 
-I'm a digital media student.
+
 
  <h2>You can also call me Bella Pan.</h2>
  

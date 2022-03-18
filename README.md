@@ -10,8 +10,6 @@
  
  
   ❤️EECS❤️ -
-  
-  
 
   @ppbella 
  
